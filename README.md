@@ -5,6 +5,6 @@ IT skill test for RTA students 2024
 Code should be written in Python
 
 Evaluation will be based on
--Code readibility
--Code efficiency
--Results
+*Code readibility
+*Code efficiency
+*Results
