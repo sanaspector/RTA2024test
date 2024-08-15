@@ -1,5 +1,5 @@
 # RTA2024test
-IT skill test for RTA students 2024
+Python skill test for RTA students 2024
 
 ## General requirement
 Code should be written in Python
